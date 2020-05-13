@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Peder Borg Borup slide!"
 ---
-Use the right arrow to go high!
+This is a slide made by Peder Borg Borup...
 Use the left arrow to go back!
